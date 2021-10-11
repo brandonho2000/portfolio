@@ -1,0 +1,2 @@
+-created portfolio HTML, JS, and CSS files.
+-linked HTML, JS, and CSS files 
