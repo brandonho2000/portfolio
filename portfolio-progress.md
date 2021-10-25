@@ -1,2 +1,12 @@
--created portfolio HTML, JS, and CSS files.
--linked HTML, JS, and CSS files 
+-created portfolio HTML, JS, and CSS files.✅
+-linked HTML, JS, and CSS files ✅
+- create sections for about me, preojects, and contact info
+-linked a contact me form to email.✅
+- still need to add nav bar ✅
+
+- still need a sticky back to top button
+- still need to add footer 
+- still need to fill out about me bio
+- still need to link projects
+- still need to add picture of myself
+- still need to style page

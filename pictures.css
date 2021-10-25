@@ -1,0 +1,30 @@
+#lang{
+        /* height: 75px;
+        width: 75px; */
+        display: flex;
+        justify-content: center;
+}
+
+#frame{
+        /* height: 75px;
+        width: 75px; */
+        display: flex;
+        justify-content: center;
+}
+
+#other{
+        /* height: 75px;
+        width: 75px; */
+        display: flex;
+        justify-content: center;
+    }
+
+img{
+        height: 75px;
+        width: 75px;
+}
+
+.treasure{
+        height: 400px;
+        width: 500px;
+}
